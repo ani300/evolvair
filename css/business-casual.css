@@ -190,3 +190,11 @@ footer p {
         clear: both;
     }
 }
+
+.gap-right {
+    margin-right: 10px;
+}
+
+.max-half {
+    max-width: 48%;
+}
