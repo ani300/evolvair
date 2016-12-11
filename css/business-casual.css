@@ -32,6 +32,10 @@ p {
     color: #000;
 }
 
+.list {
+    font-size: 1.25em;
+}
+
 hr {
     max-width: 400px;
     border-color: #999999;
