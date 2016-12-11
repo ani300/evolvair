@@ -6,7 +6,8 @@
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/plane-bg.jpg') no-repeat center center fixed;
+    /*background: url('../img/plane-bg.jpg') no-repeat center center fixed;*/
+    background: white;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -21,7 +22,7 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    /*font-weight: 700;*/
     letter-spacing: 1px;
 }
 
@@ -69,6 +70,8 @@ hr {
 .brand-name {
     margin: 0;
     font-size: 4em;
+    color: rgb(204,51,0);
+    font-family: "Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .tagline-divider {
@@ -81,7 +84,7 @@ hr {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: rgba(230,230,230,0.9);
 }
 
 .intro-text {
@@ -119,11 +122,11 @@ footer p {
         padding: 30px 0 10px;
         text-align: center;
         text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-        font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 5em;
-        font-weight: 700;
+        /*font-weight: 700;*/
         line-height: normal;
-        color: #fff;
+        color: rgb(204,51,0);
     }
 
     .top-divider {
